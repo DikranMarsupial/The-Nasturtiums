@@ -8,7 +8,7 @@ This repository is the home for Dikran Marsupial's unsorted collection of climat
 
 This notebook provides a basic implementation of the Loehle and Scafetta [2], hereafter LS11, cyclic model of global mean surface temperature.  This notebook just downloads the latest HadCRUT4-gl dataset from CRU and plots the LS11 model using the parameters given by [2], allowing us to see how the model's predctions have fared against the observations (rather badly).
 
-### ls11_notebook_001.ipynb 
+### ls11_notebook_002.ipynb 
 
 Reproduction of the Loehle and Scafetta cyclic model of global mean surface temperature [2], fitted to the HadCRUT3-gl dataset, just to verify the parameters given by LS11.  
 
