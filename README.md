@@ -1,6 +1,6 @@
 # The Nasturtiums 
 
-This repository is the home for Dikran Marsupial's unsorted collection of climate related Jupyter notebooks.  Why "The Nasturtiums"?  When Bertie Wooster gets arrested by the police, ge generally gives his name and address as "Ephraim Gadsby of The Nasturtiums, Jubilee Road, Stertham Commmon."  I don't know why, it's just a whim [1].
+This repository is the home for Dikran Marsupial's unsorted collection of climate related Jupyter notebooks.  Why "The Nasturtiums"?  When Bertie Wooster gets arrested by the police, he generally gives his name and address as "Ephraim Gadsby of The Nasturtiums, Jubilee Road, Streatham Commmon."  I don't know why, it's just a whim [1].
 
 ## The Notebooks:
 
