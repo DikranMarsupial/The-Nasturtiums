@@ -19,6 +19,14 @@ Reproduction of the Loehle and Scafetta cyclic model of global mean surface temp
 
 Reproduction of the Loehle and Scafetta cyclic model of global mean surface temperature [2], but this time fitted to the HadCRUT4-gl dataset.  It appears that the LS11 approach is not very robust to the choice of dataset used.  
 
+#### ls11_notebook_004.ipynb 
+
+Reproduction of the Loehle and Scafetta cyclic model of global mean surface temperature [2], fitted to the HadCRUT3-gl dataset, but with the periodicities of the cyclic components made tunable.  
+
+#### ls11_notebook_005.ipynb 
+
+As ls11_notebook_004.ipynb, but using the HadCRUT4-gl dataset instead of the JadCRUT3-gl data used in LS11.
+
 ## References
 
 [1] Wodehouse, P. G., "Jeeves and the Feudal Spirit", Herbert and Jenkins, 1954.
